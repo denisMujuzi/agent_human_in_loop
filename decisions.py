@@ -48,3 +48,18 @@ reject = {
         }
     ]
 }
+
+
+list_of_decisions = {
+    "decisions": [
+        {
+            "type": "approve"
+        },
+        {
+            "type": "approve"
+        },
+        {
+            "type": "approve"
+        }
+    ]
+}
